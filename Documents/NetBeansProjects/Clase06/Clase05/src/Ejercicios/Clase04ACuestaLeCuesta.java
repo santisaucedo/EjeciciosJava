@@ -1,5 +1,5 @@
 
-package clase05;
+package Ejercicios;
 
 
 public class Clase04ACuestaLeCuesta {
